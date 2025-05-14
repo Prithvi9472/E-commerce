@@ -55,7 +55,7 @@ const Footer = () => {
             <div className="bottom-bar">
                 <div className="bottom-bar-content">
                     <div className="text">
-                        TechSpo 2023 CREATED BY LAKSHYA . PREMIUM E-COMMERCE
+                        TechSpo 2023 CREATED BY PRITHVI . PREMIUM E-COMMERCE
                         SOLUTIONS.
                     </div>
                     <img src={Payment} />
